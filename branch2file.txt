@@ -1,0 +1,3 @@
+this is the file in branch2
+
+we merge this branch using pull request
